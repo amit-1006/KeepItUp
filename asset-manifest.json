@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KeepItUp/static/css/main.62005d74.chunk.css",
+    "main.js": "/KeepItUp/static/js/main.4419f0e3.chunk.js",
+    "main.js.map": "/KeepItUp/static/js/main.4419f0e3.chunk.js.map",
+    "runtime-main.js": "/KeepItUp/static/js/runtime-main.d8130d19.js",
+    "runtime-main.js.map": "/KeepItUp/static/js/runtime-main.d8130d19.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/KeepItUp/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.9ad7eec6.chunk.js": "/KeepItUp/static/js/2.9ad7eec6.chunk.js",
+    "static/js/2.9ad7eec6.chunk.js.map": "/KeepItUp/static/js/2.9ad7eec6.chunk.js.map",
+    "index.html": "/KeepItUp/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/KeepItUp/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.62005d74.chunk.css.map": "/KeepItUp/static/css/main.62005d74.chunk.css.map",
+    "static/js/2.9ad7eec6.chunk.js.LICENSE.txt": "/KeepItUp/static/js/2.9ad7eec6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8130d19.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.9ad7eec6.chunk.js",
+    "static/css/main.62005d74.chunk.css",
+    "static/js/main.4419f0e3.chunk.js"
+  ]
+}
